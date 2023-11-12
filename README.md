@@ -19,10 +19,8 @@
 <table style="display:flex;" align="center">
     <td align="center">
         Nathan Gabriel da Fonseca Leite <br>
-        <img height="350" src="https://media-gru1-2.cdn.whatsapp.net/v/t61.24694-24/317025670_1492962331197094_8337048127171950503_n.jpg?ccb=11-4&oh=01_AdT-8timW7LPC4Elzv_MjZ4WdfEddztBsX8n-MAhcVlAkw&oe=654BBDDA&_nc_sid=000000&_nc_cat=100">
     </td>
     <td align="center">
         Raphael Garavati Erbert <br>
-        <img height="350" src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/320075909_147152288007197_8467095161524887222_n.jpg?ccb=11-4&oh=01_AdQd71Vy8GqTZlAa5z_GzLuAjkibsoKJvyGpNxvnJoo9nA&oe=654BA9C0&_nc_sid=000000&_nc_cat=111">
     </td>
 </table>
